@@ -13,7 +13,7 @@ This is Facebook Uid Cracking Tools ‼️ Crack FB Account 2009-2011 Working Wi
 
 😈 pkg install git
 
-😈 rm -rf Swajon-2009
+😈 rm -rf 2009
 
 😈 git clone https://github.com/sahir10100/2009
 
